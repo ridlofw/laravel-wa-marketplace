@@ -28,3 +28,9 @@ yarn-error.log
 migration_output.txt
 result.txt
 missing_images.json
+git_status.txt
+untracked_files.txt
+
+# Storage views cache (auto-generated)
+storage/framework/views/*
+!storage/framework/views/.gitignore
